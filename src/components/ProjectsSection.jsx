@@ -5,7 +5,7 @@ const projects = [
     id: 1,
     title: "Introduction to Probability and Statics for Engineers and Scientist, 6th Ed.",
     description: "Sheldon Ross",
-    image: "src/assets/picture/1.jpg",
+    image: "/picture/1.jpg",
     demoUrl:
       "https://drive.google.com/file/d/1lAFpLqg_AbpDAfDkITv7dm_cd0dADzGV/view?usp=sharing",
   },
@@ -13,14 +13,14 @@ const projects = [
     id: 2,
     title: "Introduction to Mathematical Statistics, 8th Ed",
     description: "Hogg, McKean and Craig",
-    image: "src/assets/picture/2.jpg",
+    image: "/picture/2.jpg",
     demoUrl: "http://minerva.it.manchester.ac.uk/~saralees/statbook2.pdf",
   },
   {
     id: 3,
     title: "Introductory Statistics, 1st Ed",
     description: "Illowsky and Dean",
-    image: "src/assets/picture/3.jpg",
+    image: "/picture/3.jpg",
     demoUrl:
       "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP_i6tAI7e.pdf",
   },
@@ -28,7 +28,7 @@ const projects = [
     id: 4,
     title: "A First Course in Probability, 10th Ed",
     description: "Sheldon Ross",
-    image: "src/assets/picture/4.jpg",
+    image: "/picture/4.jpg",
     demoUrl:
       "https://educationexclusive.com/upload/pdf/A%20First%20Course%20in%20Probability%20by%20Sheldon%20Ross.pdf",
   },
@@ -36,7 +36,7 @@ const projects = [
     id: 5,
     title: "Introduction to Mathematical Statistics, 8th Ed",
     description: "Hogg, Tanis, Zimmerman",
-    image: "src/assets/picture/5.jpg",
+    image: "/picture/5.jpg",
     demoUrl:
       "https://api.pageplace.de/preview/DT0400.9781292062563_A24270068/preview-9781292062563_A24270068.pdf",
   },
@@ -44,7 +44,7 @@ const projects = [
     id: 6,
     title: "A First Course in Abstract Algebra 8th Ed",
     description: "Fraleigh and Brand",
-    image: "src/assets/picture/6.jpg",
+    image: "/picture/6.jpg",
     demoUrl:
       "https://drive.google.com/file/d/1K9XA4vgXO_sv8mjDqggvDZ-C2e7tA_o1/view?usp=sharing",
   },
@@ -52,7 +52,7 @@ const projects = [
     id: 7,
     title: "Contemporary Abstract Algebra 9th Ed",
     description: "Joseph Galian",
-    image: "src/assets/picture/7.jpg",
+    image: "/picture/7.jpg",
     demoUrl:
       "https://www.toomey.org/tutor/text_books/Advanced/Contemporary%20Abstract%20Algebra%209th%20Edition%20-%20Joseph%20A.%20Gallian.pdf",
   },
